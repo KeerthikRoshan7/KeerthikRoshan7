@@ -23,6 +23,7 @@
 
 ## 🧠 About Me
 
+<div>
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
@@ -51,6 +52,8 @@ class KeerthikRoshan:
     def motto(self):
         return "Build reliable, explainable AI. Ship it."
 ```
+
+</div>
 
 <br clear="right"/>
 
@@ -135,12 +138,13 @@ class KeerthikRoshan:
 
 <details>
 <summary><b>🏢 DigiDARA Technologies — Data Science Intern &nbsp;|&nbsp; Jul 2025 – Aug 2025 &nbsp;|&nbsp; Trichy (Hybrid)</b></summary>
+
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - Developed solid proficiency in **Python, NumPy, Pandas, and SQL** through structured hands-on microprojects in a real-world data environment
 - Performed **end-to-end EDA** on a loan approval dataset, identifying the most predictive features for downstream creditworthiness modelling
