@@ -30,7 +30,7 @@ class KeerthikRoshan:
 
     name         = "Keerthik Roshan G"
     location     = "Tiruchirappalli, Tamil Nadu 🇮🇳"
-    degree       = "B.Tech — AI & Data Science @ M.I.E.T Engineering College"
+    degree       = "B.Tech — AI and Data Science @ M.I.E.T Engineering College"
     cgpa         = 8.3
     github       = "github.com/keerthikroshan7"
     email        = "gkrosh.0712@gmail.com"
