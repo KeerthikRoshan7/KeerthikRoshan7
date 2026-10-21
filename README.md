@@ -86,16 +86,18 @@ September 2023 – Present
 
 #### Languages & Data
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas,sklearn&theme=dark&perline=5" alt="Python, C++, NumPy, Pandas and scikit-learn"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" />
 
 <br/>
 
 #### ML, Applications & Infrastructure
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,streamlit,mysql,supabase,git,github&theme=dark&perline=7" alt="PyTorch, OpenCV, Streamlit, SQL, Supabase and GitHub"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql,supabase,git,github&theme=dark&perline=7" alt="PyTorch, OpenCV, SQL, Supabase and GitHub"/>
 </a>
 
 <br/>
@@ -134,9 +136,9 @@ September 2023 – Present
 <div align="center">
 
 <a href="https://github.com/KeerthikRoshan7/DR-MARVEL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=DR-MARVEL&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="DR-MARVEL repository card"/></a>
-<a href="https://github.com/KeerthikRoshan7/RetVNX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=RetVNX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="RetVNX repository card"/></a>
+<a href="https://github.com/amalbal21/RetVNX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=RetVNX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="RetVNX repository card"/></a>
 
-<a href="https://github.com/KeerthikRoshan7/AEQUILEX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=AEQUILEX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="AEQUILEX repository card"/></a>
+<a href="https://github.com/KeerthikRoshan7/Aequilex-Py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=AEQUILEX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="AEQUILEX repository card"/></a>
 <a href="https://github.com/KeerthikRoshan7/PneumoNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=PneumoNet&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="PneumoNet repository card"/></a>
 
 </div>
@@ -200,9 +202,7 @@ September 2023 – Present
 
 <br/><br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthikRoshan7&bg_color=050816&color=C9D1D9&line=00E5FF&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="96%" alt="GitHub contribution activity graph"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=KeerthikRoshan7&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" />
 
 </div>
 
