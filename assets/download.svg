@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">ROZN — AI and Data Science</title>
+  <desc id="desc">Animated dark futuristic banner with cyan and violet neon gradients.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"><animate attributeName="stop-color" values="#050816;#10113a;#050816" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="55%" stop-color="#17104a"><animate attributeName="stop-color" values="#17104a;#092b48;#17104a" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#071a2c"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#a78bfa;#00e5ff" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#6ee7f9" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".65">
+    <path d="M-40 230 C180 110 280 330 490 190 S820 90 1240 190" stroke-dasharray="12 14">
+      <animate attributeName="stroke-dashoffset" from="0" to="-104" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-30 260 C180 160 330 300 540 220 S930 130 1240 240" stroke-dasharray="3 12" opacity=".7">
+      <animate attributeName="stroke-dashoffset" from="0" to="120" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#00e5ff" opacity=".75">
+    <circle cx="105" cy="72" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1070" cy="72" r="3"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1015" cy="230" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="205" cy="220" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="44" y="38" width="1112" height="224" rx="16" fill="none" stroke="url(#neon)" stroke-opacity=".45"/>
+  <text x="600" y="143" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="12" fill="#f8fafc" filter="url(#glow)">ROZN</text>
+  <path d="M355 166H845" stroke="url(#neon)" stroke-width="2">
+    <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="204" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="700" letter-spacing="2" fill="#67e8f9">AI &amp; DATA SCIENCE  /  AGENTIC AI  /  RAG</text>
+  <text x="600" y="235" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#c4b5fd">CODE · EVALUATE · EXPLAIN · ITERATE</text>
+</svg>
