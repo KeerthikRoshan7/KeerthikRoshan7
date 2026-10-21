@@ -7,9 +7,7 @@
 
 <div align="center">
 
-<a href="https://capsule-render.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111B4D,70:5B21B6,100:00E5FF&text=ROZN&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=13&descAlignY=59&animation=twinkling&stroke=00E5FF&strokeWidth=1" width="100%" alt="Animated ROZN banner"/>
-</a>
+![ROZN — animated AI & Data Science profile banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0%3A050816%2C35%3A111B4D%2C70%3A5B21B6%2C100%3A00E5FF&text=ROZN&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=13&descAlignY=59&animation=twinkling&stroke=00E5FF&strokeWidth=1)
 
 <br/>
 
@@ -226,7 +224,7 @@ Music, drawing, visual design, and creative experiments keep me curious outside 
 <a href="https://keerthikroshan-portfolio.netlify.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit-6D28D9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio website"/>
 </a>
-<a href="mailto:keerthikroshan75@gmail.com">
+<a href="mailto:gkrosh.0712@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 <a href="https://github.com/KeerthikRoshan7">
@@ -235,12 +233,12 @@ Music, drawing, visual design, and creative experiments keep me curious outside 
 
 <br/><br/>
 
-**Interested in AI/ML, research-driven engineering and thoughtful collaboration.**
+**Interested in AI/ML, research-driven engineering, and thoughtful collaboration.**
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00E5FF,50:5B21B6,100:050816" width="100%" alt="Neon footer"/>
 
-<sub><code>ROZN © 2026</code></sub>
+<sub><code>ROZN © 2026 · grounded in evidence, driven by curiosity</code></sub>
 
 </div>
