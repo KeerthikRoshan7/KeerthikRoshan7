@@ -1,226 +1,246 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Keerthik%20Roshan%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20GenAI%20Systems%20%7C%20ML%20Pipelines%20%7C%20Full-Stack%20Data%20Tools&descAlignY=62&descSize=16" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=keerthikroshan7&label=Profile+Views&color=70a5fd&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=keerthikroshan7&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="mailto:gkrosh.0712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gkrosh.0712%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/keerthikroshan">
-    <img src="https://img.shields.io/badge/LinkedIn-keerthikroshan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://keerthikroshan-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-38bdae?style=flat-square&logo=netlify&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;Building+Production-Grade+GenAI+Systems;Strict-Citation+LLMs+%7C+Deep+Learning+%7C+MLOps;Open+to+Internships+%26+Research+Collabs+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
-
----
-
-## 🧠 About Me
-
-<div>
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class KeerthikRoshan:
-
-    name         = "Keerthik Roshan G"
-    location     = "Tiruchirappalli, Tamil Nadu 🇮🇳"
-    degree       = "B.Tech — AI and Data Science @ M.I.E.T Engineering College"
-    cgpa         = 8.3
-    github       = "github.com/keerthikroshan7"
-    email        = "gkrosh.0712@gmail.com"
-
-    stack = [
-        "Python", "PyTorch", "Scikit-Learn",
-        "Google Gemini SDK", "Streamlit", "Supabase"
-    ]
-
-    currently_learning = [
-        "Agentic AI & LLM Orchestration",
-        "RAG Pipelines & Vector Search",
-        "MLOps & Cloud Deployment"
-    ]
-
-    fun_fact = "I won 1st place at 4 national symposiums — consecutively."
-
-    def motto(self):
-        return "Build reliable, explainable AI. Ship it."
-```
-
-</div>
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**AI / ML Frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20SDK-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Frameworks & Tools**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-BF91F3?style=flat-square&logo=python&logoColor=white)
-![python-docx](https://img.shields.io/badge/python--docx-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-
-**Databases & Cloud**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-**DevOps & Other**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!--
+  ROZN // GITHUB PROFILE README
+  Save as README.md in the public repository named KeerthikRoshan7.
+  External widgets need an internet connection. Some third-party services may rate-limit
+  or change; the README itself remains valid Markdown.
+-->
 
 <div align="center">
-  <a href="https://github.com/keerthikroshan7">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=keerthikroshan7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/keerthikroshan7">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthikroshan7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
 
----
-
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=keerthikroshan7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthikroshan7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keerthikroshan7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 DigiDARA Technologies — Data Science Intern &nbsp;|&nbsp; Jul 2025 – Aug 2025 &nbsp;|&nbsp; Trichy (Hybrid)</b></summary>
+<a href="https://capsule-render.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111B4D,70:5B21B6,100:00E5FF&text=ROZN&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=13&descAlignY=59&animation=twinkling&stroke=00E5FF&strokeWidth=1" width="100%" alt="Animated ROZN banner"/>
+</a>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&height=55&lines=AI%26DS+UNDERGRADUATE;BUILDING+EXPLAINABLE+MULTI-AGENT+RAG+SYSTEMS;FROM+RETRIEVAL+TO+REAL-WORLD+ML;CODE.+EVALUATE.+EXPLAIN.+ITERATE." alt="Animated typewriter introduction"/>
+</a>
 
-- Developed solid proficiency in **Python, NumPy, Pandas, and SQL** through structured hands-on microprojects in a real-world data environment
-- Performed **end-to-end EDA** on a loan approval dataset, identifying the most predictive features for downstream creditworthiness modelling
-- Applied **data cleaning, feature engineering, and visualisation** techniques across the full pipeline to surface actionable lender insights
-- Delivered project outcomes that directly fed into a **production loan classification model** with full precision/recall/ROC-AUC evaluation
+<br/>
 
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| [**🏛️ AEQUILEX**](https://github.com/KeerthikRoshan7/Aequilex-Py) | `Python` `Gemini SDK` `Streamlit` `PyPDF2` `python-docx` `Supabase` | Strict-citation legal AI constrained to verified IPC & BNS/BNSS statutes — eliminates hallucinated legal references via NLP-based semantic retrieval; full multilingual doc ingestion & generation pipeline deployed on Streamlit Cloud |
-| [**🫁 PneumoNet**](https://github.com/keerthikroshan7) | `Python` `PyTorch` `DenseNet-121` `CBAM` `GradCAM` | Attention-augmented DenseNet backbone trained on **NIH ChestX-ray14 (112,120 images)**; achieved **94.2% accuracy & 93.5% recall**, outperforming ResNet50 and VGG19 baselines — Grad-CAM confirms clinically relevant focus regions |
-| [**💳 Loan Creditworthiness Model**](https://github.com/keerthikroshan7) | `Python` `Scikit-Learn` `Pandas` | Binary classification pipeline on a real loan dataset — end-to-end EDA, feature engineering, and model evaluation using **Precision, Recall, F1, ROC-AUC**; actionable insights for lender decision-making |
+<a href="https://komarev.com/ghpvc/?username=KeerthikRoshan7">
+  <img src="https://komarev.com/ghpvc/?username=KeerthikRoshan7&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+</a>
+<a href="https://github.com/KeerthikRoshan7?tab=followers"><img src="https://img.shields.io/github/followers/KeerthikRoshan7?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers"/></a>
+<a href="https://keerthikroshan-portfolio.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-111827?style=for-the-badge&logo=netlify&logoColor=00E5FF" alt="Portfolio website"/></a>
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## `> whoami`
 
-<div align="center">
-
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **Connexions — 1st Place** | 4 national-level symposiums — consecutive wins across technical events |
-| 🥇 | **Key Quest @ KRCE — 1st Place** | National technical competition |
-| 🥈 | **Paper Presentation @ Sudharsan — 2nd Place** | Research paper track |
-| 🥉 | **AI Music Contest @ Mookambigai — 3rd Place** | Generative AI track |
-| 🎓 | **NIT Summer Internship — Selected** | Vortex '26 programme at NIT Trichy |
-| 🤖 | **Agentic & Generative AI Workshop** | Ditto Security @ NIT Trichy, March 2026 |
-| 📜 | **Python Certifications** | Python, Python Crash Course, Python for Data Science (Lernx) |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Period | Score |
-|:---|:---|:---:|:---:|
-| **B.Tech — Artificial Intelligence & Data Science** | M.I.E.T Engineering College, Tiruchirappalli | Sep 2023 – Present | **CGPA: 8.3** |
-
-*Relevant Courses: Data Science & Analysis · Machine & Deep Learning · Artificial Intelligence*
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```
-🤖 Agentic AI         →  LLM orchestration, multi-agent pipelines, tool-use frameworks
-🔍 RAG Systems        →  Vector search, embedding models, retrieval-augmented generation
-☁️  MLOps             →  Model versioning, CI/CD for ML, cloud deployment strategies
-🧠 Transformer Arch   →  Attention mechanisms, fine-tuning, PEFT methods
-📊 Explainable AI     →  SHAP, GradCAM, model interpretability in production
+```text
+NAME      : Keerthik Roshan G // ROZN
+ROLE      : B.Tech Artificial Intelligence & Data Science
+COLLEGE   : M.I.E.T. Engineering College, Tiruchirappalli
+FOCUS     : Agentic AI · Multi-Agent Systems · RAG · Applied ML
+CURRENT   : Building retrieval-grounded, explainable AI systems
 ```
 
----
+I'm an AI & Data Science undergraduate interested in building **explainable, retrieval-grounded AI**—especially systems that need to connect model outputs to evidence. My work spans multi-agent orchestration, computer vision, semantic retrieval, data analysis, and full-stack ML prototypes.
+
+I care about more than a model's headline metric: I want to understand the pipeline, evaluate it carefully, and make its outputs easier to inspect and trust.
+
+> *Build the system. Ground the answer. Explain the result.*
+
+## `> education`
 
 <div align="center">
-  <i>🚀 Open to internships, research collaborations, and ambitious open-source projects.</i>
-  <br/>
-  <b>Let's build something reliable, explainable, and worth shipping.</b>
-  <br/><br/>
-  <a href="mailto:gkrosh.0712@gmail.com">
-    <img src="https://img.shields.io/badge/Reach%20Out-gkrosh.0712%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-111827?style=for-the-badge&logo=academia&logoColor=00E5FF" alt="B.Tech AI and Data Science"/>
+<img src="https://img.shields.io/badge/CGPA-8.2%2F10-312E81?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA 8.2 out of 10"/>
+
+**M.I.E.T. Engineering College · Tiruchirappalli**  
+September 2023 – Present
+
+<sub>Relevant coursework: Data Science & Analysis · Machine Learning & Deep Learning · Artificial Intelligence</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+## `> focus_areas`
+
+<div align="center">
+
+| `01` — INTELLIGENCE | `02` — RETRIEVAL & REASONING | `03` — APPLIED ENGINEERING |
+|:---:|:---:|:---:|
+| Machine Learning | Retrieval-Augmented Generation | Data analysis & visualization |
+| Deep Learning | Multi-Agent Systems | ML pipelines & deployment |
+| Computer Vision | LLM orchestration | Semantic search & vector stores |
+| Agentic AI | Evidence-grounded generation | Offline-first AI prototypes |
+
+</div>
+
+## `> tech_stack --visual`
+
+<div align="center">
+
+### Languages & data
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas,sklearn&theme=dark&perline=5" alt="Python, C++, NumPy, Pandas and scikit-learn"/>
+</a>
+
+### ML, applications & infrastructure
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,streamlit,mysql,supabase,git,github&theme=dark&perline=7" alt="PyTorch, OpenCV, Streamlit, SQL, Supabase and GitHub"/>
+</a>
+
+### AI & retrieval ecosystem
+
+`Google Gemini SDK` · `FAISS` · `ChromaDB` · `Ollama` · `LLaVA` · `CLIP` · `faster-whisper` · `BioBERT / ClinicalBERT` · `Pydantic`
+
+<sub>Stack reflects tools and technologies used in coursework, internships, or projects; proficiency varies by tool.</sub>
+
+</div>
+
+---
+
+## `> experience.log`
+
+### Research Intern — NIT Tiruchirappalli
+<sub>Summer Internship Program · Vortex '26 · Jun 2026 – Jul 2026</sub>
+
+- Contributed to **DR-MARVEL**, a multi-agent, retrieval-augmented framework for diabetic retinopathy decision support.
+- Owned agent-level design and evaluation methodology, coordinating architecture reviews and validation with a faculty mentor.
+- Worked on evidence-grounded clinical reporting using ophthalmology guidelines and biomedical literature sources.
+
+### Data Science Intern — DigiDARA Technologies
+<sub>Trichy (Hybrid) · Jul 2025 – Aug 2025</sub>
+
+- Practised Python, NumPy, Pandas, and SQL through hands-on microprojects.
+- Performed end-to-end exploratory data analysis on a loan-approval dataset and identified predictive features for creditworthiness modelling.
+
+---
+
+## `> projects --featured`
+
+<div align="center">
+
+<a href="https://github.com/KeerthikRoshan7/DR-MARVEL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=DR-MARVEL&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="DR-MARVEL repository card"/>
+</a>
+<a href="https://github.com/KeerthikRoshan7/RetVNX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=RetVNX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="RetVNX repository card"/>
+</a>
+<a href="https://github.com/KeerthikRoshan7/AEQUILEX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=AEQUILEX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="AEQUILEX repository card"/>
+</a>
+<a href="https://github.com/KeerthikRoshan7/PneumoNet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=PneumoNet&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="PneumoNet repository card"/>
+</a>
+
+</div>
+
+### DR-MARVEL
+**Multi-Agent RAG-Augmented, Vision-Grounded, Explanatory Lesion Analysis for Diabetic Retinopathy**
+
+- Co-designed a clinical decision-support framework with five specialized agents: lesion analysis, evidence retrieval, diagnostic reasoning, referral recommendation, and explainability.
+- Built a retrieval-grounded knowledge workflow using FAISS, BioBERT/ClinicalBERT embeddings, AAO/ICO guidelines, and federated literature retrieval from PubMed, Europe PMC, and ClinicalTrials.gov.
+- Resume-reported evaluation: **96.72% accuracy, 95.97% F1-score, and 0.988 AUC** across EyePACS, APTOS, IDRiD, and Messidor (94K+ fundus images).
+
+### RetVNX
+**Multimodal Semantic Video Retrieval for CCTV / Surveillance Footage** · IEEE-judged hackathon
+
+- Designed a four-stage retrieval pipeline using MobileViT-XXS for frame filtering, CLIP and faster-whisper embeddings for multimodal indexing, and a ChromaDB HNSW vector store.
+- Designed an Ollama + LLaVA query-intent router for four retrieval modes.
+- Built for fully offline operation to meet the hackathon's no-internet-dependency demo requirement; owned system documentation and architecture within a four-person team.
+
+### AEQUILEX
+**AI-Powered Legal Research Assistant**
+
+- Built a strict-citation research engine grounded in verified IPC and BNS/BNSS statutes, using semantic retrieval across multilingual documents.
+- Developed document ingestion with PyPDF2 and document generation with python-docx, plus multilingual translation.
+- Deployed as a full-stack single-file application on Streamlit Cloud.
+
+### PneumoNet
+**Attention-Based DenseNet for Pneumonia Classification**
+
+- Integrated channel and spatial attention into a DenseNet backbone to focus on lung tissue and filter anatomical noise.
+- Trained on NIH ChestX-ray14 (112,120 images); resume-reported results: **94.2% accuracy and 93.5% recall**.
+- Used Grad-CAM visualizations to inspect model focus regions.
+
+<div align="center">
+
+<a href="https://github.com/KeerthikRoshan7?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+---
+
+## `> github.stats --live`
+
+<div align="center">
+
+<a href="https://github.com/KeerthikRoshan7">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KeerthikRoshan7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=050816&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/KeerthikRoshan7">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthikRoshan7&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=050816&title_color=00E5FF&text_color=C9D1D9" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<a href="https://streak-stats.demolab.com">
+  <img src="https://streak-stats.demolab.com?user=KeerthikRoshan7&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthikRoshan7&bg_color=050816&color=C9D1D9&line=00E5FF&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="96%" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+---
+
+## `> achievements.unlock()`
+
+- **1st Place** — Connexions (four national symposiums)
+- **1st Place** — Key Quest @ KRCE
+- **Workshop** — Agentic & Generative AI, Ditto Security @ NIT Trichy (March 2026)
+- **Courses** — Python, Python Crash Course, Python for Data Science (Lernx)
+
+---
+
+## `> beyond.the.terminal`
+
+Music, drawing, visual design, and creative experiments keep me curious outside the ML pipeline. I like technical work that has both a clear engineering foundation and a creative point of view.
+
+---
+
+## `> connect --open-channel`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/keerthikroshan">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+<a href="https://keerthikroshan-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-6D28D9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio website"/>
+</a>
+<a href="mailto:keerthikroshan75@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="https://github.com/KeerthikRoshan7">
+  <img src="https://img.shields.io/badge/GITHUB-Follow-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+**Interested in AI/ML, research-driven engineering and thoughtful collaboration.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00E5FF,50:5B21B6,100:050816" width="100%" alt="Neon footer"/>
+
+<sub><code>ROZN © 2026</code></sub>
+
+</div>
