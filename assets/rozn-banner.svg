@@ -37,7 +37,7 @@
     <circle cx="205" cy="220" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
   </g>
   <rect x="44" y="38" width="1112" height="224" rx="16" fill="none" stroke="url(#neon)" stroke-opacity=".45"/>
-  <text x="600" y="143" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="12" fill="#f8fafc" filter="url(#glow)">ROZN</text>
+  <text x="600" y="143" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="12" fill="#f8fafc" filter="url(#glow)">KEERTHIK ROSHAN</text>
   <path d="M355 166H845" stroke="url(#neon)" stroke-width="2">
     <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
   </path>
