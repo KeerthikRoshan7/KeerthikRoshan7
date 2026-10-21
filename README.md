@@ -1,8 +1,6 @@
 <!--
   ROZN // GITHUB PROFILE README
   Save as README.md in the public repository named KeerthikRoshan7.
-  External widgets need an internet connection. Some third-party services may rate-limit
-  or change; the README itself remains valid Markdown.
 -->
 
 <div align="center">
@@ -15,19 +13,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&height=55&lines=AI%26DS+UNDERGRADUATE;BUILDING+EXPLAINABLE+MULTI-AGENT+RAG+SYSTEMS;FROM+RETRIEVAL+TO+REAL-WORLD+ML;CODE.+EVALUATE.+EXPLAIN.+ITERATE." alt="Animated typewriter introduction"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://komarev.com/ghpvc/?username=KeerthikRoshan7">
-  <img src="https://komarev.com/ghpvc/?username=KeerthikRoshan7&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=KeerthikRoshan7&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views" />
 </a>
-<a href="https://github.com/KeerthikRoshan7?tab=followers"><img src="https://img.shields.io/github/followers/KeerthikRoshan7?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers"/></a>
-<a href="https://keerthikroshan-portfolio.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-111827?style=for-the-badge&logo=netlify&logoColor=00E5FF" alt="Portfolio website"/></a>
+<a href="https://github.com/KeerthikRoshan7?tab=followers">
+  <img src="https://img.shields.io/github/followers/KeerthikRoshan7?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers"/>
+</a>
+<a href="https://keerthikroshan-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-111827?style=for-the-badge&logo=netlify&logoColor=00E5FF" alt="Portfolio website"/>
+</a>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> who.am.i`
 
 ```text
 NAME      : Keerthik Roshan G // ROZN
@@ -43,12 +45,16 @@ I care about more than a model's headline metric: I want to understand the pipel
 
 > *Build the system. Ground the answer. Explain the result.*
 
+---
+
 ## `> education`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-111827?style=for-the-badge&logo=academia&logoColor=00E5FF" alt="B.Tech AI and Data Science"/>
 <img src="https://img.shields.io/badge/CGPA-8.2%2F10-312E81?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA 8.2 out of 10"/>
+
+<br/><br/>
 
 **M.I.E.T. Engineering College · Tiruchirappalli**  
 September 2023 – Present
@@ -64,7 +70,7 @@ September 2023 – Present
 <div align="center">
 
 | `01` — INTELLIGENCE | `02` — RETRIEVAL & REASONING | `03` — APPLIED ENGINEERING |
-|:---:|:---:|:---:|
+| :---: | :---: | :---: |
 | Machine Learning | Retrieval-Augmented Generation | Data analysis & visualization |
 | Deep Learning | Multi-Agent Systems | ML pipelines & deployment |
 | Computer Vision | LLM orchestration | Semantic search & vector stores |
@@ -72,25 +78,33 @@ September 2023 – Present
 
 </div>
 
+---
+
 ## `> tech_stack --visual`
 
 <div align="center">
 
-### Languages & data
+#### Languages & Data
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas,sklearn&theme=dark&perline=5" alt="Python, C++, NumPy, Pandas and scikit-learn"/>
 </a>
 
-### ML, applications & infrastructure
+<br/>
+
+#### ML, Applications & Infrastructure
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,streamlit,mysql,supabase,git,github&theme=dark&perline=7" alt="PyTorch, OpenCV, Streamlit, SQL, Supabase and GitHub"/>
 </a>
 
-### AI & retrieval ecosystem
+<br/>
+
+#### AI & Retrieval Ecosystem
 
 `Google Gemini SDK` · `FAISS` · `ChromaDB` · `Ollama` · `LLaVA` · `CLIP` · `faster-whisper` · `BioBERT / ClinicalBERT` · `Pydantic`
+
+<br/>
 
 <sub>Stack reflects tools and technologies used in coursework, internships, or projects; proficiency varies by tool.</sub>
 
@@ -119,20 +133,15 @@ September 2023 – Present
 
 <div align="center">
 
-<a href="https://github.com/KeerthikRoshan7/DR-MARVEL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=DR-MARVEL&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="DR-MARVEL repository card"/>
-</a>
-<a href="https://github.com/KeerthikRoshan7/RetVNX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=RetVNX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="RetVNX repository card"/>
-</a>
-<a href="https://github.com/KeerthikRoshan7/AEQUILEX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=AEQUILEX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="AEQUILEX repository card"/>
-</a>
-<a href="https://github.com/KeerthikRoshan7/PneumoNet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=PneumoNet&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="PneumoNet repository card"/>
-</a>
+<a href="https://github.com/KeerthikRoshan7/DR-MARVEL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=DR-MARVEL&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="DR-MARVEL repository card"/></a>
+<a href="https://github.com/KeerthikRoshan7/RetVNX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=RetVNX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="RetVNX repository card"/></a>
+
+<a href="https://github.com/KeerthikRoshan7/AEQUILEX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=AEQUILEX&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="AEQUILEX repository card"/></a>
+<a href="https://github.com/KeerthikRoshan7/PneumoNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthikRoshan7&repo=PneumoNet&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=A78BFA" alt="PneumoNet repository card"/></a>
 
 </div>
+
+<br/>
 
 ### DR-MARVEL
 **Multi-Agent RAG-Augmented, Vision-Grounded, Explanatory Lesion Analysis for Diabetic Retinopathy**
@@ -183,13 +192,13 @@ September 2023 – Present
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthikRoshan7&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=050816&title_color=00E5FF&text_color=C9D1D9" alt="Most used programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://streak-stats.demolab.com">
   <img src="https://streak-stats.demolab.com?user=KeerthikRoshan7&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthikRoshan7&bg_color=050816&color=C9D1D9&line=00E5FF&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="96%" alt="GitHub contribution activity graph"/>
