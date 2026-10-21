@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![ROZN — animated AI & Data Science profile banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0%3A050816%2C35%3A111B4D%2C70%3A5B21B6%2C100%3A00E5FF&text=ROZN&fontColor=FFFFFF&fontSize=76&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20AGENTIC%20AI%20%7C%20RAG&descSize=13&descAlignY=59&animation=twinkling&stroke=00E5FF&strokeWidth=1)
+![ROZN — animated AI & Data Science profile banner](./assets/rozn-banner.svg)
 
 <br/>
 
